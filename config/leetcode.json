@@ -1,0 +1,8 @@
+{
+  "leetcode": {
+    "username": "YOUR_LEETCODE_USERNAME",
+    "api_endpoint": "https://leetcode.com/api/user",
+    "sync_interval": "daily",
+    "track_problems": true
+  }
+}
